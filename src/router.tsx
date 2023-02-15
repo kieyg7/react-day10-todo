@@ -5,7 +5,7 @@ import ToDoList from "./components/TodoList";
 // const BASE_URL = 'https://kieyg7.github.io/react-day10-todo/';
 const router = createBrowserRouter([
   {
-    path: '',
+    path: '/',
     element: <Root />,
     children: [
       {
